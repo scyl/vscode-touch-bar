@@ -1,6 +1,6 @@
 {
-	"name": "stephen-touch-bar",
-	"displayName": "stephen-touch-bar",
+	"name": "vscode-touch-bar",
+	"displayName": "vscode-touch-bar",
 	"description": "",
 	"version": "0.0.1",
 	"engines": {
